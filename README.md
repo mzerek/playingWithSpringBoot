@@ -1,1 +1,1 @@
-Examle: https://reflectoring.io/aop-spring/
+Example: https://reflectoring.io/aop-spring/
